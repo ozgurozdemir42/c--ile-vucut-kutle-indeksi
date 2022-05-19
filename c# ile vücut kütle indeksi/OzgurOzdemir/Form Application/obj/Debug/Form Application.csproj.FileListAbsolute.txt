@@ -1,0 +1,25 @@
+C:\Users\Ztac\Desktop\SedaHocaFinal\OzgurOzdemir\Form Application\bin\Debug\Form Application.exe
+C:\Users\Ztac\Desktop\SedaHocaFinal\OzgurOzdemir\Form Application\bin\Debug\Form Application.pdb
+C:\Users\Ztac\Desktop\SedaHocaFinal\OzgurOzdemir\Form Application\bin\Debug\OzgurOzdemir.pdb
+C:\Users\Ztac\Desktop\SedaHocaFinal\OzgurOzdemir\Form Application\obj\Debug\Form Application.csproj.AssemblyReference.cache
+C:\Users\Ztac\Desktop\SedaHocaFinal\OzgurOzdemir\Form Application\obj\Debug\Form_Application.Form1.resources
+C:\Users\Ztac\Desktop\SedaHocaFinal\OzgurOzdemir\Form Application\obj\Debug\Form_Application.Properties.Resources.resources
+C:\Users\Ztac\Desktop\SedaHocaFinal\OzgurOzdemir\Form Application\obj\Debug\Form Application.csproj.GenerateResource.cache
+C:\Users\Ztac\Desktop\SedaHocaFinal\OzgurOzdemir\Form Application\obj\Debug\Form Application.csproj.CoreCompileInputs.cache
+C:\Users\Ztac\Desktop\SedaHocaFinal\OzgurOzdemir\Form Application\obj\Debug\Form Application.exe
+C:\Users\Ztac\Desktop\SedaHocaFinal\OzgurOzdemir\Form Application\obj\Debug\Form Application.pdb
+C:\Users\Ztac\Desktop\SedaHocaFinal\OzgurOzdemir\Form Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ztac\Desktop\SedaHocaFinal\OzgurOzdemir\Form Application\bin\Debug\OzgurOzdemir.dll
+C:\Users\ÖZGÜR ÖZDEMİR\OneDrive\Masaüstü\OzgurOzdemir (2)\OzgurOzdemir\Form Application\bin\Debug\Form Application.exe
+C:\Users\ÖZGÜR ÖZDEMİR\OneDrive\Masaüstü\OzgurOzdemir (2)\OzgurOzdemir\Form Application\bin\Debug\Form Application.pdb
+C:\Users\ÖZGÜR ÖZDEMİR\OneDrive\Masaüstü\OzgurOzdemir (2)\OzgurOzdemir\Form Application\bin\Debug\OzgurOzdemir.dll
+C:\Users\ÖZGÜR ÖZDEMİR\OneDrive\Masaüstü\OzgurOzdemir (2)\OzgurOzdemir\Form Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ÖZGÜR ÖZDEMİR\OneDrive\Masaüstü\OzgurOzdemir (2)\OzgurOzdemir\Form Application\bin\Debug\OzgurOzdemir.pdb
+C:\Users\ÖZGÜR ÖZDEMİR\OneDrive\Masaüstü\OzgurOzdemir (2)\OzgurOzdemir\Form Application\obj\Debug\Form Application.csprojAssemblyReference.cache
+C:\Users\ÖZGÜR ÖZDEMİR\OneDrive\Masaüstü\OzgurOzdemir (2)\OzgurOzdemir\Form Application\obj\Debug\Form_Application.Form1.resources
+C:\Users\ÖZGÜR ÖZDEMİR\OneDrive\Masaüstü\OzgurOzdemir (2)\OzgurOzdemir\Form Application\obj\Debug\Form_Application.Properties.Resources.resources
+C:\Users\ÖZGÜR ÖZDEMİR\OneDrive\Masaüstü\OzgurOzdemir (2)\OzgurOzdemir\Form Application\obj\Debug\Form Application.csproj.GenerateResource.cache
+C:\Users\ÖZGÜR ÖZDEMİR\OneDrive\Masaüstü\OzgurOzdemir (2)\OzgurOzdemir\Form Application\obj\Debug\Form Application.csproj.CoreCompileInputs.cache
+C:\Users\ÖZGÜR ÖZDEMİR\OneDrive\Masaüstü\OzgurOzdemir (2)\OzgurOzdemir\Form Application\obj\Debug\Form Application.csproj.CopyComplete
+C:\Users\ÖZGÜR ÖZDEMİR\OneDrive\Masaüstü\OzgurOzdemir (2)\OzgurOzdemir\Form Application\obj\Debug\Form Application.exe
+C:\Users\ÖZGÜR ÖZDEMİR\OneDrive\Masaüstü\OzgurOzdemir (2)\OzgurOzdemir\Form Application\obj\Debug\Form Application.pdb

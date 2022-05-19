@@ -1,0 +1,6 @@
+C:\Users\Ztac\Desktop\SedaHocaFinal\OzgurOzdemir\OzgurOzdemir\bin\Debug\OzgurOzdemir.dll
+C:\Users\Ztac\Desktop\SedaHocaFinal\OzgurOzdemir\OzgurOzdemir\bin\Debug\OzgurOzdemir.pdb
+C:\Users\Ztac\Desktop\SedaHocaFinal\OzgurOzdemir\OzgurOzdemir\obj\Debug\OzgurOzdemir.csproj.CoreCompileInputs.cache
+C:\Users\Ztac\Desktop\SedaHocaFinal\OzgurOzdemir\OzgurOzdemir\obj\Debug\OzgurOzdemir.dll
+C:\Users\Ztac\Desktop\SedaHocaFinal\OzgurOzdemir\OzgurOzdemir\obj\Debug\OzgurOzdemir.pdb
+C:\Users\Ztac\Desktop\SedaHocaFinal\OzgurOzdemir\OzgurOzdemir\obj\Debug\OzgurOzdemir.csproj.AssemblyReference.cache
